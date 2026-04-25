@@ -29,7 +29,7 @@ Atualmente sou **Analista de Aquisição de Talentos I na M. Dias Branco**, cont
 - 📊 Automatização de indicadores e análise de dados
 - 🎓 Suporte estratégico a programas de talentos e estágio (**Geração Massa Tech**)
 
-Sou **bacharela em Administração**, possuo **MBA em Gestão de Projetos** e curso **Análise e Desenvolvimento de Sistemas (ADS)** e **MBA em Data Science**, aprofundando conhecimentos em **Banco de Dados, Análise de Dados e Sistemas de RH**.
+Sou **bacharela em Administração**, possuo **MBA em Gestão de Projetos** e curso **MBA em Data Science**, aprofundando conhecimentos em **Banco de Dados, Análise de Dados e Sistemas de RH**.
 
 📍 Fortaleza - CE, Brasil · 💼 M. Dias Branco
 
